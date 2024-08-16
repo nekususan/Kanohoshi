@@ -8,3 +8,4 @@ This repository managemented by nekusu/nekusu.com
 
 ## Kanohoshi's Projects
 ・Kanohoshi Minecraft Server
+https://github.com/nekususan/KanohoshiMC
